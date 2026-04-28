@@ -37,7 +37,7 @@ Tested on DVWA — High Security Level:
 
 ## 📁 Project Structure
 ## 👨‍💻 Author
-**Krishan Sharma** — Penetration Tester
+
 - GitHub: https://github.com/wptechguard-glitch
 - LinkedIn: https://linkedin.com/in/krishan-sharma-254aba304
 
